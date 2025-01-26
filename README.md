@@ -5,7 +5,7 @@
  tool that helps users explore salary trends, job availability,and the factors influencing salaries in the data science 
  industry.By leveraging data from job listings and employment records.
  ## Process:
-- Extract data from Csv file.
+- Extract data from CSV file.
 - Clean the data to remove duplicates,handle missing values, and standardize different formats.
 - identify patterns, outliers, and trends to extract meaningful insights from the data.
 - Used Tableau to create interactive visualizations such as donut charts, bar charts, highlighted table, and geographical 
